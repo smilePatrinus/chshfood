@@ -1,0 +1,25 @@
+header {
+    background-color:gray;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  footer {
+    background-color:gray;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }  
+  #founder{
+    background-color:azure;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+    color:black;
+  }
+  .buttonAdjust p{
+    color: black;
+    font-size: 30px;
+
+  }
